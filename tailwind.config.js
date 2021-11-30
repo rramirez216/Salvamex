@@ -44,7 +44,7 @@ module.exports = {
         'xsr': '352px'
       },
       backgroundImage: {
-        'hero-image': "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/src/images/ceramic.jpeg')"
+        'hero-image': "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/public/images/ceramic.jpeg')"
       },
       height: {
         'h-18': '72px'
