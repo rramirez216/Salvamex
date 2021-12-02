@@ -605,7 +605,7 @@ video {
 }
 
 .hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/public/images/ceramic.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/ceramic.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -13735,7 +13735,7 @@ video {
 }
 
 .bg-hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/public/images/ceramic.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/ceramic.jpeg');
 }
 
 .from-transparent {
@@ -31986,7 +31986,7 @@ video {
   }
 
   .sm\:bg-hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/public/images/ceramic.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/ceramic.jpeg');
   }
 
   .sm\:from-transparent {
@@ -50225,7 +50225,7 @@ video {
   }
 
   .md\:bg-hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/public/images/ceramic.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/ceramic.jpeg');
   }
 
   .md\:from-transparent {
@@ -68464,7 +68464,7 @@ video {
   }
 
   .lg\:bg-hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/public/images/ceramic.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/ceramic.jpeg');
   }
 
   .lg\:from-transparent {
@@ -86703,7 +86703,7 @@ video {
   }
 
   .xl\:bg-hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/public/images/ceramic.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/ceramic.jpeg');
   }
 
   .xl\:from-transparent {
