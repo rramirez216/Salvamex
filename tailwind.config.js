@@ -20,6 +20,9 @@ module.exports = {
       blue: {
         light: '#C0C0C4',
         DEFAULT: '#091229'
+      },
+      semi: {
+        DEFAULT: 'rgba(0,0,0,0.9)'
       }
     },
     screens: {
