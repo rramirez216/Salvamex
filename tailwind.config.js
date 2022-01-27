@@ -47,7 +47,8 @@ module.exports = {
         xsr: '352px',
       },
       backgroundImage: {
-        'hero-image': "url('/images/salvamex.jpg')",
+        'hero-image':
+          "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/salvamex.jpg')",
       },
       height: {
         'h-18': '72px',
