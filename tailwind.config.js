@@ -1,5 +1,5 @@
 module.exports = {
-  purge: ["public/index.html"],
+  purge: ['public/index.html'],
   darkMode: false, // or 'media' or 'class'
   theme: {
     colors: {
@@ -19,42 +19,42 @@ module.exports = {
       },
       blue: {
         light: '#C0C0C4',
-        DEFAULT: '#091229'
+        DEFAULT: '#091229',
       },
       semi: {
-        DEFAULT: 'rgba(0,0,0,0.9)'
-      }
+        DEFAULT: 'rgba(0,0,0,0.9)',
+      },
     },
     screens: {
-      'sm': '34.375rem',
+      sm: '34.375rem',
       // => @media (min-width: 34.375rem) { ... }
-      'md': '48rem',
+      md: '48rem',
 
-      'lg': '68.75rem',
+      lg: '68.75rem',
       // => @media (min-width: 68.75rem) { ... }
 
-      'xl': '93.75rem',
+      xl: '93.75rem',
       // => @media (min-width: 93.75rem) { ... }
     },
     flex: {
-      '1': '1 1 0%',
+      1: '1 1 0%',
       auto: '1 1 auto',
       none: 'none',
-      '2': '1 1 320px',
+      2: '1 1 320px',
     },
     extend: {
       maxWidth: {
-        'xsr': '352px'
+        xsr: '352px',
       },
       backgroundImage: {
-        'hero-image': "url('/images/asphalt-shingles.jpeg')"
+        'hero-image': "url('/images/salvamex.jpg')",
       },
       height: {
-        'h-18': '72px'
+        'h-18': '72px',
       },
       inset: {
-        '72px': '72px'
-      }
+        '72px': '72px',
+      },
     },
   },
   variants: {
