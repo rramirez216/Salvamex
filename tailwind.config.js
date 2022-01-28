@@ -26,6 +26,7 @@ module.exports = {
       },
     },
     screens: {
+      xs: '27.5625rem',
       sm: '34.375rem',
       // => @media (min-width: 34.375rem) { ... }
       md: '48rem',
